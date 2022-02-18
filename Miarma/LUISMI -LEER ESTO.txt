@@ -1,0 +1,1 @@
+Dentro de la carpeta download van las imagenes que he usado de prueba, y en la lista de postman van cargada, pero lo mas probable ( lo digo por que me pasa cuando cierro en casa, y abro en clases o a la inversa ), si lo ejecutas directamente, da error, tienes que cargar las imagenes de nuevo para que funcione.
